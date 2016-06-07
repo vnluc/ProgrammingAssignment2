@@ -2,7 +2,7 @@
 
 This is the 2nd programming exercise of the R-programming course.
 
-### Cach the inverse of a matrix 
+### Cache the inverse of a matrix 
 
 Normally the inverse calculatation of a matrix is expensive. 
 That is why we want to cache the result, if the matrix is not changed
